@@ -59,7 +59,7 @@ a {
 }
 
 .navbar-logo img {
-  width: 196px;
+  width: 210px;
   height: auto;
   display: block;
 }
@@ -106,7 +106,7 @@ a {
 .hero {
   position: relative;
   width: 100%;
-  min-height: calc(100vh - 96px);
+  min-height: calc(86vh - 96px);
   margin-top: 96px;
   display: flex;
   align-items: center;
@@ -205,7 +205,7 @@ a {
 }
 
 .about-text {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.72;
   color: #343941;
   max-width: 610px;
@@ -408,7 +408,7 @@ a {
   }
 
   .navbar-logo img {
-    width: 182px;
+    width: 180px;
   }
 
   .navbar-links {
@@ -436,7 +436,7 @@ a {
   }
 
   .hero {
-    min-height: calc(100vh - 60px);
+    min-height: calc(86vh - 60px);
     margin-top: 60px;
   }
 
