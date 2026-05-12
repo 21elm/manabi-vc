@@ -59,7 +59,7 @@ a {
 }
 
 .navbar-logo img {
-  width: 210px;
+  width: 178px;
   height: auto;
   display: block;
 }
@@ -292,7 +292,7 @@ a {
 
 /* ========== CONTACT ========== */
 .contact {
-  padding: 138px 60px 132px;
+  padding: 108px 60px 58px;
   max-width: 100%;
   margin: 0 auto;
   text-align: center;
@@ -341,7 +341,7 @@ a {
 .footer {
   background: #fff;
   color: #333941;
-  padding: 18px 60px 56px;
+  padding: 0 60px 48px;
   text-align: center;
 }
 
@@ -408,7 +408,7 @@ a {
   }
 
   .navbar-logo img {
-    width: 180px;
+    width: 168px;
   }
 
   .navbar-links {
@@ -498,7 +498,7 @@ a {
   }
 
   .contact {
-    padding: 76px 24px 68px;
+    padding: 70px 24px 42px;
   }
 
   .contact h2 {
@@ -519,7 +519,7 @@ a {
   }
 
   .footer {
-    padding: 14px 24px 42px;
+    padding: 0 24px 36px;
   }
 
   .footer-info p,
